@@ -10,23 +10,24 @@
 	<head>
 		<title>Peter Ferguson</title>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--meta name="viewport" content="width=device-width, initial-scale=1" /-->
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="shortcut icon" href="images/favicon_1.ico">
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async="" src="./Peter Ferguson_files/js"></script>
+		<!--script async="" src="./Peter Ferguson_files/js"></script>
 		<script>
   		window.dataLayer = window.dataLayer || [];
   		function gtag(){dataLayer.push(arguments);}
   		gtag('js', new Date());
 
   		gtag('config', 'UA-112389902-1');
-		</script>
+		</script-->
 
 	</head>
-	<body>
+	<body class="is-preload">
 
 		<!-- Header -->
 			<section id="header">
@@ -70,16 +71,24 @@
 										<h2>Peter Ferguson</h2>
 										<!--p>Graduate Student in Physics and Astronomy <br> at Texas A&M University</p-->
 									</header>
-									<h3>About</h3>
-									<p>Hi, I am a 5th year graduate student at Texas A&M currently working for Dr. Jennifer Marshall and Dr. Louis Strigari.
-										Currently my research involves using photometric and spectroscopic surveys such as the DECam Local Volume Exploration (<a href='https://delve-survey.github.io'>DELVE </a>), the Dark Energy Survey (<a href="https://www.darkenergysurvey.org/">DES</a>) or the Southern Stellar Stream Spectroscopic Survey (<a href="https://s5collab.github.io/">S5</a>) to explore the structure of the Milky Way Halo.  
-										Additionally, I am working as part of the Munnerlyn instrumentation lab developing <a href="https://instrumentation.tamu.edu/instruments/tcal/">TCal</a> a mobile spectrophotometric calibration unit for imaging systems to enhance scientific return from large surveys such as the LSST at VRO.
-										I also am extremely interested in spatial statistics, and data vizualization. For more information see the <a href="#research">Research</a> section below or my <a href="ferguson_cv.pdf">CV</a>
-								  </p>
-								 	<p>
-										In my free time I play ultimate frisbee, listen to music and figure out how to spend more time in places like Big Bend.   
-									</p>
-									<p>I can be reached at petersferguson "at" tamu.edu</p>
+									
+									<div class="features">
+										<article>
+											<h3>About Me</h3>
+											<img src="images/big_bend.jpg" class="image" alt="At chisos basin in Big Bend"/>
+											<!--a href="images/streams_des.gif" class="image"><img src="images/streams_des.gif" alt=""></a-->
+											<div class="inner">
+											<p>Hi, I am a 5th year graduate student at Texas A&M currently working for Dr. Jennifer Marshall and Dr. Louis Strigari.
+												Currently my research involves using photometric and spectroscopic surveys such as the DECam Local Volume Exploration (<a href='https://delve-survey.github.io'>DELVE </a>), the Dark Energy Survey (<a href="https://www.darkenergysurvey.org/">DES</a>) or the Southern Stellar Stream Spectroscopic Survey (<a href="https://s5collab.github.io/">S5</a>) to explore the structure of the Milky Way Halo.  
+												Additionally, I am working as part of the Munnerlyn instrumentation lab developing <a href="https://instrumentation.tamu.edu/instruments/tcal/">TCal</a> a mobile spectrophotometric calibration unit for imaging systems to enhance scientific return from large surveys such as the LSST at VRO.
+												I also am extremely interested in spatial statistics, and data vizualization. For more information see the <a href="#research">Research</a> section below or my <a href="ferguson_cv.pdf">CV</a>
+											</p>
+								 			<p>
+												In my free time I play ultimate frisbee, listen to music and figure out how to spend more time in places like Big Bend.   
+											</p>
+											<p>I can be reached at petersferguson "at" tamu.edu</p>
+										</article>
+									</div>
 								</div>
 							</section>
 
@@ -239,12 +248,13 @@
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollzer.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
-			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
+	
 
 	</body>
 </html>

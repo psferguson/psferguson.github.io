@@ -1790,7 +1790,7 @@ input, select, textarea {
 	}
 
 		header.major h2 + p {
-			color: #777;
+			color: #F4AF00;
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
@@ -1848,7 +1848,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			border-color: #500000;
 		}
 
 	select {
@@ -3031,7 +3031,7 @@ input, select, textarea {
 				width: 100%;
 				z-index: 10001;
 				background: #500000;
-				color: #fff;
+				color: #F4AF00;
 				min-width: 320px;
 			}
 
@@ -3049,6 +3049,7 @@ input, select, textarea {
 					#titleBar .title a {
 						border: 0;
 						text-decoration: none;
+						color:#F4AF00
 					}
 
 				#titleBar .toggle {
@@ -3076,8 +3077,8 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
-						color: #ffffff;
+						background: #500000;
+						color: #F4AF00;
 						content: '\f0c9';
 						display: block;
 						font-size: 18px;
