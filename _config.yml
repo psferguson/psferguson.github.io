@@ -1,6 +1,6 @@
 
 # Permalinks
-permalink:        pretty
+#permalink: :categories/:year/:month/:day/:title:output_ext
 
 # setup
 title:               Peter S. Ferguson
@@ -8,8 +8,6 @@ tagline:             Astronomer
 job:                 Research Associate
 location:            UW Madison
 department:          Department of Physics
-url:                 petersferguson.space
-baseurl:             '/'
 paginate_path:       "_pages/projects/page:num/"
 paginate:            5
 
@@ -35,4 +33,4 @@ google_analytics_id: #UA-XXXX-Y
 
 domain: peterferguson.space       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://peterferguson.space  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /psferguson/psferguson.github.io/      # place folder name if the site is served in a subfolder
+baseurl: /psferguson/psferguson.github.io      # place folder name if the site is served in a subfolder

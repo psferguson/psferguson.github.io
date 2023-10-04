@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Infrastructure
+permalink: infrastructures
 ---
-![Peter at rubin]({{site.baseurl}}public/images/peter_w_rubin.jpg){: width="250" style="float: right"}
+![Peter at rubin]({{site.baseurl}}/public/images/peter_w_rubin.jpg){: width="250" style="float: right"}
 
 
 
@@ -26,7 +27,7 @@ In particular, I have led/helped with:
  out our validation needs during Rubin Observatory commissioning.
 
  * Data validation / photometric calibration for the DECam Local Volume Exploration
- ![Peter at rubin]({{site.baseurl}}public/images/rubin_view.jpg){: width="250" style="float: right"}
+ ![Peter at rubin]({{site.baseurl}}/public/images/rubin_view.jpg){: width="250" style="float: right"}
 (DELVE) Survey with Dr. Alex Drlica-Wagner. DELVE is a ~25,000 sq deg photometric
 survey using DECam archival data and 130 nights of dedicated observations.
 

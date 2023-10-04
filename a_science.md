@@ -3,7 +3,7 @@ layout: page
 title: Science
 ---
 
-![DELVE coverage]({{site.baseurl}}public/images/decam_coverage.png)
+![DELVE coverage]({{site.baseurl}}/public/images/decam_coverage.png)
 
 My research focuses on understanding the nature of Dark Matter and our galaxy, the Milky Way.
 In particular, I use dwarf galaxies and stellar streams as cosmological probes of dark matter
