@@ -1,0 +1,51 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <div class="photo">
+      <img class="photo" src="{{site.baseurl}}public/images/peter-ferguson.jpg" alt="" />
+    </div>
+      <h3>
+        <font COLOR="#FFFFFF">
+          {{ site.author.name }}<br>
+          (he/him)
+        </font>
+      </h3>
+      <h4>
+        <p>
+          <font COLOR="#FFFFFF">
+          {{ site.job }}<br>
+          {{ site.department }}<br>
+          {{ site.location }}
+          </font>
+        </p>
+      </h4>
+      <h4>
+
+      </h4>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      <a class="sidebar-nav-item" href="{{site.baseurl}}public/ferguson_cv.pdf">CV</a>
+    </nav>
+
+    {% include social-media-links.html %}
+
+    <p>peter.ferguson@wisc.edu</p>
+  </div>
+</div>

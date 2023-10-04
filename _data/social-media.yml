@@ -1,0 +1,17 @@
+email:
+  id: 'peter.ferguson@wisc.edu'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+github:
+  id: psferguson
+  href: 'https://github.com/'
+  title: 'Github'
+  fa-icon: 'fa-github-square'
+
+spotify:
+  id: djjackal
+  href: 'https://open.spotify.com/user/'
+  title: 'Spotify'
+  fa-icon: 'fa-spotify'

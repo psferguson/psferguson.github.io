@@ -1,0 +1,35 @@
+
+# Permalinks
+permalink:        pretty
+
+# setup
+title:               Peter S. Ferguson
+tagline:             Astronomer
+job:                 Research Associate
+location:            UW Madison
+department:          Department of Physics
+url:                 petersferguson.space
+baseurl:             '/'
+paginate_path:       "_pages/projects/page:num/"
+paginate:            5
+
+# About/contact
+author:
+  name:              Peter S. Ferguson
+  github:               psferguson
+  email:             petersferguson@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+include:
+  - pages
+  - _data
+  - _includes
+
+# Custom vars
+google_analytics_id: #UA-XXXX-Y
+
+#
