@@ -5,9 +5,9 @@
 # setup
 title:               Peter S. Ferguson
 tagline:             Astronomer
-job:                 Research Associate
-location:            UW Madison
-department:          Department of Physics
+job:                 DiRAC Fellow
+location:            UW Seattle
+department:          Department of Astronomy
 paginate_path:       "_pages/projects/page:num/"
 paginate:            5
 
