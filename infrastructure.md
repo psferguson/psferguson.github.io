@@ -2,6 +2,7 @@
 layout: page
 title: Infrastructure
 permalink: /instrumentation/
+nav_order: 2
 ---
 ![Peter at rubin]({{site.baseurl}}/public/images/peter_w_rubin.jpg){: width="250" style="float: right"}
 
