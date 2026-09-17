@@ -45,4 +45,5 @@ baseurl: ""
 #baseurl: /psferguson/psferguson.github.io      # place folder name if the site is served in a subfolder
 
 # Used for <meta name="description"> and social previews
-description:         Astronomer at the University of Washington working on Rubin Observatory/LSST survey infrastructure and dark matter science with stellar streams and dwarf galaxies.
+description: Near-field cosmology with dwarfs, streams, and LSST
+
