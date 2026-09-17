@@ -2,16 +2,28 @@ email:
   id: 'pferguso@uw.edu'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fa-envelope-square'
+  fa-icon: 'fa-solid fa-square-envelope'
 
 github:
   id: psferguson
   href: 'https://github.com/'
-  title: 'Github'
-  fa-icon: 'fa-github-square'
+  title: 'GitHub'
+  fa-icon: 'fa-brands fa-square-github'
+
+orcid:
+  id: 0000-0001-6957-1627
+  href: 'https://orcid.org/'
+  title: 'ORCID'
+  fa-icon: 'fa-brands fa-orcid'
+
+ads:
+  id: rBhHJF5MTWqIJuR0n-PNKA
+  href: 'https://ui.adsabs.harvard.edu/public-libraries/'
+  title: 'Publications on ADS'
+  fa-icon: 'fa-solid fa-book'
 
 spotify:
   id: djjackal
   href: 'https://open.spotify.com/user/'
   title: 'Spotify'
-  fa-icon: 'fa-spotify'
+  fa-icon: 'fa-brands fa-spotify'
