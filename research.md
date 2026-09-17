@@ -7,7 +7,7 @@ redirect_from:
   - /science/
 ---
 
-![DELVE coverage]({{site.baseurl}}/public/images/decam_coverage.png)
+![DELVE coverage]({{site.baseurl}}/public/images/decam_coverage.jpg)
 
 My research focuses on the nature of dark matter and the assembly history of our
 galaxy, the Milky Way. Dwarf galaxies and stellar streams (the tidal remnants of

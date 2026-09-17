@@ -17,13 +17,7 @@ orcid:
   fa-icon: 'fa-brands fa-orcid'
 
 ads:
-  id: rBhHJF5MTWqIJuR0n-PNKA
-  href: 'https://ui.adsabs.harvard.edu/public-libraries/'
+  id: 'orcid%3A0000-0001-6957-1627&sort=date%20desc'
+  href: 'https://ui.adsabs.harvard.edu/search/q='
   title: 'Publications on ADS'
   fa-icon: 'fa-solid fa-book'
-
-spotify:
-  id: djjackal
-  href: 'https://open.spotify.com/user/'
-  title: 'Spotify'
-  fa-icon: 'fa-brands fa-spotify'

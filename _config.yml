@@ -43,3 +43,6 @@ domain: peterferguson.space       # if you want to force HTTPS, specify the doma
 url: https://peterferguson.space  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: ""
 #baseurl: /psferguson/psferguson.github.io      # place folder name if the site is served in a subfolder
+
+# Used for <meta name="description"> and social previews
+description:         Astronomer at the University of Washington working on Rubin Observatory/LSST survey infrastructure and dark matter science with stellar streams and dwarf galaxies.
