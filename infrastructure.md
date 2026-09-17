@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Infrastructure
-permalink: infrastructures
+permalink: /instrumentation/
 ---
 ![Peter at rubin]({{site.baseurl}}/public/images/peter_w_rubin.jpg){: width="250" style="float: right"}
 

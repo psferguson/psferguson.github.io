@@ -27,6 +27,13 @@ include:
   - _data
   - _includes
 
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+
 # Custom vars
 google_analytics_id: #UA-XXXX-Y
 

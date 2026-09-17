@@ -4,9 +4,10 @@ title: My Favorite Bonkers LSST Facts
 ---
 
 The Legacy Survey of Space and Time (<a href='https://www.lsst.org/'><strong>LSST</strong></a>) 
-is a planned 10-year survey using the Vera C. Rubin Observatory. 
-The start of this survey is expected to be in mid-2025, but a more up-to-date schedule can be found 
-at <a href='https://ls.st/dates'><strong>ls.st/dates</strong></a>. 
+is a 10-year survey using the Vera C. Rubin Observatory. 
+Rubin achieved first light in June 2025 and released 
+<a href='https://dp1.lsst.io/'><strong>Data Preview 1</strong></a> shortly after; the survey is now underway.
+The current schedule can be found at <a href='https://ls.st/dates'><strong>ls.st/dates</strong></a>. 
 
 This survey will provide us with a truly impressive dataset with which to learn about the universe. 
 Some of my favorite LSST numbers are: 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Science
+permalink: /science/
 ---
 
 ![DELVE coverage]({{site.baseurl}}/public/images/decam_coverage.png)
@@ -18,5 +19,4 @@ I am also a builder for the DECam Local Volume Exploration Survey
 Working Group within the Dark Energy Survey ([**DES**](https://www.darkenergysurvey.org/)).
 
 To learn more about our plans to use Rubin Observatory to constrain the nature of
-dark matter see the LSST Dark Matter white paper ([Drlica-Wagner et. al.](https://arxiv.org/abs/1902.01055))
 dark matter, see the LSST Dark Matter white paper ([Drlica-Wagner et al.](https://arxiv.org/abs/1902.01055)).
