@@ -6,4 +6,3 @@ updates:
       interval: "weekly"
     ignore:
       - dependency-name: "rubyzip"
-        reason: "github-pages pins jekyll-remote-theme = 0.4.3 which requires rubyzip < 3.0; no fix possible upstream"
