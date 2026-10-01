@@ -9,8 +9,9 @@ Auto-generated from my [ADS library](https://ui.adsabs.harvard.edu/public-librar
 (ORCID [0000-0001-6957-1627](https://orcid.org/0000-0001-6957-1627)).
 Mentored students are <u>underlined</u>.
 
-## Primary Contributor (14)
+## Primary Contributor (15)
 
+- <u>Pélissier, Matthieu</u>, **Ferguson, P. S.**, Drlica-Wagner, Alex, et al., *Impact of LSST systematics on stellar-stream density fluctuations for dark matter*, [arXiv:2609.10897, 2026](https://ui.adsabs.harvard.edu/abs/2026arXiv260910897P)
 - Arora, Arpit, **Ferguson, P. S.**, Nibauer, Jacob, et al., *No Stream Left Unscathed: The Imprint of a Host Galaxy*, [ApJ, 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ..1008...91A)
 - Gordon, Yjan A., **Ferguson, P. S.**, Martinez, Michael N., et al., *A Census of Variable Radio Sources at 3 GHz*, [The Open Journal of Astrophysics, 2026](https://ui.adsabs.harvard.edu/abs/2026OJAp....962407G)
 - <u>Boone, K. K.</u>, **Ferguson, P. S.**, Tabbutt, M., et al., *Robust Measurement of Stellar Streams around the Milky Way: Correcting Spatially Variable Observational Selection Effects in Optical Imaging Surveys*, [ApJ, 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ..1001..208B)
@@ -37,6 +38,7 @@ Mentored students are <u>underlined</u>.
 - Oden, Slater J., Nidever, David L., Povick, Joshua, ..., **Ferguson, P. S.**, et al., *Warped and Hooked: Mapping the Magellanic Clouds in Three Dimensions Using Red Clump Stars*, [ApJ, 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ..1003....9O)
 - Sherman, Nora F., Acevedo, Maria, Brout, Dillon, ..., **Ferguson, P. S.**, et al., *The Dark Energy Bedrock All-sky Supernova Program: Motivation, Design, Implementation, and Preliminary Data Release*, [ApJ, 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ..1002..146S)
 - Chandler, Colin Orion, Bernardinelli, Pedro H., Juri\'c, Mario, ..., **Ferguson, P. S.**, et al., *NSF-DOE Vera C. Rubin Observatory Observations of Interstellar Comet 3I/ATLAS (C/2025 N1)*, [ApJL, 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ..1001L..35C)
+- Chiti, Anirudh, Placco, Vinicius M., Pace, Andrew B., ..., **Ferguson, P. S.**, et al., *Enrichment by the first stars in a relic dwarf galaxy*, [Nature Astronomy, 2026](https://ui.adsabs.harvard.edu/abs/2026NatAs..10..830C)
 - Tan, C. Y., Drlica-Wagner, A., Pace, A. B., ..., **Ferguson, P. S.**, et al., *DELVE Milky Way Satellite Galaxy Census. I. Satellite Population and Survey Selection Function in DES, DELVE, and Pan-STARRS*, [ApJ, 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000...87T)
 - Tan, C. Y., Cerny, W., Pace, A. B., ..., **Ferguson, P. S.**, et al., *Ultra-faint Milky Way Satellites Discovered in Carina, Phoenix, and Telescopium with DELVE Data Release 3*, [ApJ, 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000...46T)
 - Acevedo, Maria, Sherman, Nora F., Brout, Dillon, ..., **Ferguson, P. S.**, et al., *The Dark Energy Bedrock All-sky Supernova Program: Cross Calibration, Simulations, and Cosmology Forecasts*, [ApJ, 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ...996....7A)
