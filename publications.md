@@ -9,9 +9,10 @@ Auto-generated from my [ADS library](https://ui.adsabs.harvard.edu/public-librar
 (ORCID [0000-0001-6957-1627](https://orcid.org/0000-0001-6957-1627)).
 Mentored students are <u>underlined</u>.
 
-## Primary Contributor (15)
+## Primary Contributor (16)
 
 - <u>Pélissier, Matthieu</u>, **Ferguson, P. S.**, Drlica-Wagner, Alex, et al., *Impact of LSST systematics on stellar-stream density fluctuations for dark matter*, [arXiv:2609.10897, 2026](https://ui.adsabs.harvard.edu/abs/2026arXiv260910897P)
+- Gordon, Yjan, **Ferguson, P. S.**, Hooper, Eric J., et al., *New Signs Pointing Toward a Correlation Between Astrophysical Neutrinos and Radio Flares*, [The Open Journal of Astrophysics, 2026](https://ui.adsabs.harvard.edu/abs/2026OJAp....972273G)
 - Arora, Arpit, **Ferguson, P. S.**, Nibauer, Jacob, et al., *No Stream Left Unscathed: The Imprint of a Host Galaxy*, [ApJ, 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ..1008...91A)
 - Gordon, Yjan A., **Ferguson, P. S.**, Martinez, Michael N., et al., *A Census of Variable Radio Sources at 3 GHz*, [The Open Journal of Astrophysics, 2026](https://ui.adsabs.harvard.edu/abs/2026OJAp....962407G)
 - <u>Boone, K. K.</u>, **Ferguson, P. S.**, Tabbutt, M., et al., *Robust Measurement of Stellar Streams around the Milky Way: Correcting Spatially Variable Observational Selection Effects in Optical Imaging Surveys*, [ApJ, 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ..1001..208B)
@@ -27,8 +28,9 @@ Mentored students are <u>underlined</u>.
 - **Ferguson, P. S.**, Strigari, Louis E., *Three-dimensional structure of the Sagittarius dwarf spheroidal core from RR Lyrae*, [MNRAS, 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.4124F)
 - Shipp, N., Drlica-Wagner, A., Balbinot, E., **Ferguson, P. S.**, et al., *Stellar Streams Discovered in the Dark Energy Survey*, [ApJ, 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...862..114S)
 
-## Co-Author (39)
+## Co-Author (40)
 
+- Limberg, Guilherme, Ji, Alexander P., Li, Ting S., ..., **Ferguson, P. S.**, et al., *S<sup>5</sup>: Tidal Disruption in Crater 2 and Formation of Diffuse Dwarf Galaxies in the Local Group*, [ApJ, 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ..1010....9L)
 - Anbajagane, D., Chang, C., Drlica-Wagner, A., ..., **Ferguson, P. S.**, et al., *Dark Energy Camera All Data Everywhere cosmic shear project. V. Constraints on cosmology and astrophysics from 270 million galaxies across 13,000 deg2 of the sky*, [Phys. Rev. D, 2026](https://ui.adsabs.harvard.edu/abs/2026PhRvD.114d3527A)
 - Atzberger, K. R., Pace, A. B., Kallivayalil, N., ..., **Ferguson, P. S.**, et al., *The DECam MAGIC Survey: Uncovering the Tidal Tails of the Crater II Dwarf Galaxy*, [ApJ, 2026](https://ui.adsabs.harvard.edu/abs/2026ApJ..1006..180A)
 - Simon, Joshua D., Rodriguez, Joseph E., Yana Galarza, Jhon, ..., **Ferguson, P. S.**, et al., *TOI-7169 b: A Hot Jupiter Transiting a Metal-poor Star*, [AJ, 2026](https://ui.adsabs.harvard.edu/abs/2026AJ....172..118S)
